@@ -1,0 +1,37 @@
+.navbar{
+    display: flex;
+    background-color: rgb(24, 24, 24);
+    color: white;
+    justify-content:space-between;
+    align-content: center;
+    text-align: center;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-left: 30px;
+}
+.auth{
+    display: flex;
+    margin-right: 20px;
+    text-decoration: none;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+.auth h3{
+margin-right: 20px;
+}
+.auth button{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: fit-content;
+}
